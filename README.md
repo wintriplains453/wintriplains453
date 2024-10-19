@@ -16,7 +16,8 @@
 </p>
 
 <b>Codewars</b>
-[![codewars](https://www.codewars.com/users/Wintriplains453/badges/large)](https://www.codewars.com/users/Wintriplains453)
+
+<a>[![codewars](https://www.codewars.com/users/Wintriplains453/badges/large)](https://www.codewars.com/users/Wintriplains453)</a>
 
 <b>Статистика</b>
 
